@@ -3,3 +3,7 @@
 잘되시나요?
 
 hi, hello world!
+
+# first repository
+
+### 오늘 배운내용
